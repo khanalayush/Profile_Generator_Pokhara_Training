@@ -21,7 +21,7 @@
 		department: 'Bachelor of Computer Engineering',
 		year: '2022',
 		email: 'khanalayush06@gmail.com',
-		gpa: '3.00'
+		gpa: '3.0'
 	};
 	// ===================== END EDIT: PERSONAL INFO =========================
 
