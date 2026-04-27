@@ -15,13 +15,13 @@
 	// ======================= EDIT HERE: PERSONAL INFO =======================
 	// Update your name, id/roll, department, year, email, and gpa below.
 	const myInfo = {
-		name: 'Your Name',
-		tagline: 'Your Tagline',
-		roll: 'Your ID / Roll Number',
-		department: 'Your Department',
-		year: 'Your Year',
-		email: 'your.email@example.com',
-		gpa: '0.00'
+		name: 'Ayush Khanal',
+		tagline: 'DevOps',
+		roll:  '08 / 22070127',
+		department: 'Bachelor of Computer Engineering',
+		year: '2022',
+		email: 'khanalayush06@gmail.com',
+		gpa: '3.00'
 	};
 	// ===================== END EDIT: PERSONAL INFO =========================
 
